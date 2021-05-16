@@ -1,0 +1,7 @@
+/home/jeff/dev/jenkins-tbs/spring-petclinic-vets-service/src/main/java/org/springframework/samples/petclinic/vets/system/VetsProperties.java
+/home/jeff/dev/jenkins-tbs/spring-petclinic-vets-service/src/main/java/org/springframework/samples/petclinic/vets/model/VetRepository.java
+/home/jeff/dev/jenkins-tbs/spring-petclinic-vets-service/src/main/java/org/springframework/samples/petclinic/vets/system/CacheConfig.java
+/home/jeff/dev/jenkins-tbs/spring-petclinic-vets-service/src/main/java/org/springframework/samples/petclinic/vets/web/VetResource.java
+/home/jeff/dev/jenkins-tbs/spring-petclinic-vets-service/src/main/java/org/springframework/samples/petclinic/vets/model/Vet.java
+/home/jeff/dev/jenkins-tbs/spring-petclinic-vets-service/src/main/java/org/springframework/samples/petclinic/vets/model/Specialty.java
+/home/jeff/dev/jenkins-tbs/spring-petclinic-vets-service/src/main/java/org/springframework/samples/petclinic/vets/VetsServiceApplication.java
